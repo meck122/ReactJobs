@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-primary: #1e293b;
+  --color-secondary: #64748b;
+
+  --font-heading: 'Poppins, sans-serif';
+  --font-body: 'Inter, sans-serif';
+
+  --grid-cols-layout: repeat(auto-fit, minmax(200px, 1fr));
+}
